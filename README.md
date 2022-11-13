@@ -22,7 +22,7 @@ Skills: HTML / CSS / PHP / JAVASCRIPT / BOOTSTRAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrrakib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrrakibi&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nrrakib&show_icons=true) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nrrakib)  
 
